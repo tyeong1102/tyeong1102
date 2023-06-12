@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![tyeong1102's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyeong1102&theme=gruvbox).  [![Solved.ac
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyeong1102&layout=compact&theme=dark).  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyeong1102)](https://solved.ac/tyeong1102)
 
 <!--
