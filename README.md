@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyeong1102&layout=compact&theme=dark)](https://github.com/tyeong1102/github-readme-stats)  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyeong11)](https://solved.ac/profile/tyeong11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyeong1102&layout=compact&theme=dark)](https://github.com/tyeong1102/github-readme-stats)  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyeong)](https://solved.ac/profile/tyeong)
 
 <!--
 **tyeong1102/tyeong1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
